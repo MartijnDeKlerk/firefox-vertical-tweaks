@@ -7,9 +7,13 @@ klarkie's tweaks for tweaking firefox
 2. In the chrome folder `C:\Users\USER\AppData\Roaming\Mozilla\Firefox\Profiles\PROFILE_NAME\chrome` create a file called `userChrome.css`
 
 #### Enabling the settings file
+
+- Manually
 1. Go to URL `about:config` 
 2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` 
 3. Set it to `true`
+- Automatically
+1. Run main.py
 
 #### Fixing the padding
 1. Press the hamburger menu and press `Customize`
