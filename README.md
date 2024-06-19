@@ -7,8 +7,9 @@ tweaks for tweaking firefox
 https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 
 #### Adding the settings file
-1. open your active profiles root directory by going to `about:profiles` and clicking on the `Open Folder`
+1. open your active profiles root directory by searching `about:profiles` in the firefox search bar and clicking on the `Open Folder` for your root directory
 2. In the chrome folder `%APPDATA%\Mozilla\Firefox\Profiles\PROFILE_NAME\chrome` create a file called `userChrome.css`
+3. Copy and paste code from the userChrome.css file in the repo into your userChrome.css file and save
 
 #### Enabling the settings file
 1. Go to URL `about:config` 
