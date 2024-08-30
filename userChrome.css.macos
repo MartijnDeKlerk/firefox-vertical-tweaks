@@ -1,0 +1,11 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#TabsToolbar > .toolbar-items,
+#TabsToolbar > .titlebar-spacer {
+    visibility: hidden
+}
+
+#nav-bar {
+    margin-top: -35px;
+    margin-left: 100px !important;
+}
