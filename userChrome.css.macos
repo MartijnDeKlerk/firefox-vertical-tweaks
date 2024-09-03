@@ -6,6 +6,7 @@
 }
 
 #nav-bar {
-    margin-top: -42px;
-    margin-right: 140px !important;
+    margin-top: -35px;
+    margin-left: 100px !important;
 }
+
