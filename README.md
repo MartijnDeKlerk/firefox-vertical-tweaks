@@ -12,9 +12,13 @@ https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 3. Copy and paste code from your OS's respective userChrome.css file in the repo into your userChrome.css file and save
 
 #### Enabling the settings file
+
+- Manually
 1. Go to URL `about:config` 
 2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` 
 3. Set it to `true`
+- Automatically
+1. Run main.py
 
 #### Fixing the padding
 1. Press the hamburger menu and press `Customize`
